@@ -22,3 +22,12 @@ Thumbs.db
 
 # Temporary files
 *.tmp
+# Generated processed outputs
+data/processed/*
+!data/processed/final_deformation_analysis_summary.csv
+
+# Generated figures
+results/*
+!results/standard_vs_robust_displacement_discrepancy.png
+!results/robust_photogrammetric_vs_geodetic_vectors.png
+!results/internal_precision_vs_external_discrepancy.png
