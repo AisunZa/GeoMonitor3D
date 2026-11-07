@@ -70,6 +70,8 @@ The robust displacement-vector discrepancies range from:
 Relative to the surveyed displacement magnitudes, these correspond
 to approximately 1.5–4.8%.
 
+![Standard vs. robust photogrammetric displacement discrepancy](results/standard_vs_robust_displacement_discrepancy.png)
+
 ## Robust estimation
 
 Leave-one-out reprojection diagnostics identified particularly large
